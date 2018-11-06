@@ -1,5 +1,5 @@
 # Yearbook/ Geolocation
-This is a starter fore for implementing yearbook or geolocation project.
+This is a starter code for implementing yearbook or geolocation project.
 
 ## Dependencies
 
